@@ -55,7 +55,10 @@ To begin this exercise, follow these detailed steps:
              - Read the following Resource for understanding telegram bot folder structure best practice and long polling. [Link](#)<br>
              - Go through the code and the bot ['A2SV_bot_Part1_Example']() on telegram and see how it works <br>
              - Create your own telegram bot using Bot Father on telegram then replace the `TOKEN_API` in the .config file <br>
-                     Sample solution video[Link](#) <br>
+               Sample solution video <br>
+               
+               https://github.com/blenassefa2/Telegram-Bot-Learning-Path/assets/62964622/121a9cbd-8fd3-48b4-b48b-e567848caed8
+
              - Host your bot on PythonAnywhere <br>
              - Add your own additional commands other than `/start`
 
