@@ -50,14 +50,14 @@ To begin this exercise, follow these detailed steps:
    - If you encounter issues with the boilerplate code, contact one of the project heads for assistance.
 
 5. **Complete Tasks:**
-   - Proceed to complete the tasks within your new folder.
-        Guide:
-             - Read the following Resource for understanding telegram bot folder structure best practice and long polling. [Link]()
-             - Go through the code and the bot ['A2SV_bot_Part1_Example']() on telegram and see how it works
-             - Create your own telegram bot using Bot Father on telegram then edit the 
-                     Sample solution video
-             -
-   - **Task:** Thoroughly test and debug your solutions.
+   - Proceed to complete the tasks within your new folder. <br>
+        - **Task Guide:**<br>
+             - Read the following Resource for understanding telegram bot folder structure best practice and long polling. [Link](#)<br>
+             - Go through the code and the bot ['A2SV_bot_Part1_Example']() on telegram and see how it works <br>
+             - Create your own telegram bot using Bot Father on telegram then replace the `TOKEN_API` in the .config file <br>
+                     Sample solution video[Link](#) <br>
+             - Host your bot on PythonAnywhere <br>
+             - Add your own additional commands other than `/start`
 
 6. **Send a Pull Request:**
    - Once tasks are completed, send a pull request with your changes.
