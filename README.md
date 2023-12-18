@@ -14,12 +14,27 @@ In this phase, we'll cover essential topics, and although we won't delve into ad
 ## Getting Started
 
 To ensure platform consistency, we will be using GitHub Codespace to write and run our codes. In order to open your own GitHub Codespace, use the steps depicted in the following short video. 
+
 Note: If Docker works for you and the boilerplate codes of the tasks run without a problem, you can use your local computer.
 [----Short Video of opening codespace —-]
 
-After starting your codespace, make sure to create your branch with the following format [First_Name].[Task].[PartNumber] then check out to your branch Example: git checkout -b Blen.Task.1 After getting on your branch, copy the whole folder in the specific task you are in and rename it with your name. Example [--- Picture Showing copied task folder —] Inside your new folder, run docker compose to run the boilerplate and make sure it works as follows: docker compose build docker compose run Note: If the boilerplate code is not running properly, contact one of the heads for a fix.
+After starting your codespace, make sure to create your branch with the following format then check out to your branch
 
-Complete your tasks in the new folder and send a pull request. Note: If your solution is accepted, it will be merged, and you can move on to the next task and enjoy!!
+`[First_Name].[Task].[PartNumber]`
+Example: `git checkout -b Blen.Task.1 `
+
+After getting on your branch, copy the whole folder in the specific task you are in and rename it with your name. Example [--- Picture Showing copied task folder —] 
+
+Inside your new folder, run docker compose to run the boilerplate and make sure it works as follows: 
+`
+docker compose build 
+docker compose run 
+`
+
+Note: If the boilerplate code is not running properly, contact one of the heads for a fix.
+
+Complete your tasks in the new folder and send a pull request. 
+Note: If your solution is accepted, it will be merged, and you can move on to the next task and enjoy!!
 
 ## Objective
 
