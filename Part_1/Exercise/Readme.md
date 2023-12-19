@@ -4,7 +4,7 @@ Welcome to Part 1 of the A2SV Remote Second Year Telegram Bot Development Phase!
 
 ## Getting Started
 
-To begin this exercise, follow these detailed steps:
+To begin this exercise, follow these detailed steps (If you haven't done them already):
 
 1. **Clone the Repository / Open the github Codespace:**
    - Use GitHub Codespace for a consistent development environment.
@@ -16,7 +16,7 @@ To begin this exercise, follow these detailed steps:
 
 3. **Copy Task Folder:**
    - Your submission should be inside the Part_1 directory and it should be within a directory called [Your_first_name]
-   - **Task:** Copy the entire folder named  (`Exercise`) and rename it with your first name.
+   - **Task:** After finishing your task, make sure to add a readme and add your deployed bot name to it.
 
 ## Task Overview
 
@@ -30,17 +30,23 @@ To begin this exercise, follow these detailed steps:
 
 ### 3. Create Your First Bot
    - Use BotFather to create your first Telegram bot.
-   - **Task:** Create your own telegram bot using Bot Father on telegram then replace the `TOKEN_API` in the config.py file <br>
+   **Task:** Create your own telegram bot using Bot Father on telegram then replace the `TOKEN_API` in the config.py file <br>
                Sample solution video <br>
-               https://github.com/blenassefa2/Telegram-Bot-Learning-Path/assets/62964622/121a9cbd-8fd3-48b4-b48b-e567848caed8
 
-### 4. Host on Repl
-   - See the following tutorial for hosting on Repl.
-   - **Task:** Copy all your files and folders within [YOUR_FIRST_NAME] to repl
+
+     https://github.com/blenassefa2/Telegram-Bot-Learning-Path/assets/62964622/7bfd179e-0b25-4faa-bcc2-946b7c9087bf
+
+
+### 4. Host on PythonAnywhere
+
+   - See the following tutorial for hosting on PythonAnywhere by going through
+     **Task:** Copy all your files and folders within folder to pythonanywhere folder and run it
+   Resource: [tutorial](https://youtu.be/mYlM4RWTHnk) (Turn on subtitles and autotranslate to English)
 
 ### 5. Develop Custom Commands
    - Dive into the Aiogram library and understand its usage in developing custom commands for your Telegram bot.
-   - **Task:** Head to the `custom_commands` folder to practice implementing basic commands to enhance your bot's functionality.
+     **Task:** Head to the `Part_1/[Your_name]/bot/handlers/ message_handler.py` to practice implementing  additional basic commands to enhance your bot's functionality.
+   Resource: 
      
 ### 6. Send a Pull Request
    - Once tasks are completed, send a pull request with your changes.
