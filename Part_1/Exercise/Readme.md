@@ -32,7 +32,6 @@ To begin this exercise, follow these detailed steps:
    - Use BotFather to create your first Telegram bot.
    - **Task:** Create your own telegram bot using Bot Father on telegram then replace the `TOKEN_API` in the config.py file <br>
                Sample solution video <br>
-               
                https://github.com/blenassefa2/Telegram-Bot-Learning-Path/assets/62964622/121a9cbd-8fd3-48b4-b48b-e567848caed8
 
 ### 4. Host on Repl
