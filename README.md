@@ -13,27 +13,20 @@ In this phase, we'll cover essential topics, and although we won't delve into ad
 
 ## Getting Started
 
-To ensure platform consistency, we will be using GitHub Codespace to write and run our codes. In order to open your own GitHub Codespace, use the steps depicted in the following short video. 
+### 1.Clone this repository
+    ` git clone https://github.com/blenassefa2/Telegram-Bot-Learning-Path.git`
+    
+### 2. After cloning this repository on your machine, make sure to create your branch with the following format then check out to your branch
+'''[First_Name].[Task].[PartNumber]'''
 
-Note: If Docker works for you and the boilerplate codes of the tasks run without a problem, you can use your local computer.
-[----Short Video of opening codespace —-]
-
-After starting your codespace, make sure to create your branch with the following format then check out to your branch
-
-`[First_Name].[Task].[PartNumber]`
 Example: `git checkout -b Blen.Task.1 `
 
-After getting on your branch, copy the whole folder in the specific task you are in and rename it with your name. Example [--- Picture Showing copied task folder —] 
+### 3. After getting on your branch, copy the whole folder in the specific task you are in and rename it with your name. 
+Example 
+![image](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/assets/62964622/02fcbfe9-55a9-495f-9fef-f357ed5a0da1)
 
-Inside your new folder, run docker compose to run the boilerplate and make sure it works as follows: 
-`
-docker compose build 
-docker compose run 
-`
 
-Note: If the boilerplate code is not running properly, contact one of the heads for a fix.
-
-Complete your tasks in the new folder and send a pull request. 
+### 4. Complete your tasks in the new folder and send a pull request. 
 Note: If your solution is accepted, it will be merged, and you can move on to the next task and enjoy!!
 
 ## Objective
@@ -49,25 +42,25 @@ In summary, Telegram bot development is an engaging pursuit for software enthusi
 The details for each task parts are clearly defined in the readme of respective tasks but the overall structure looks as follows:
 
 **Part 1: Introduction to Telegram Bot**
-[Details](link to part 1 readme)
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_1/README.md)
 - Understand the recommended folder structure and the concept of long polling.
 - Create your first Telegram bot using BotFather.
 - Host the bot on PythonAnywhere.
 - Develop custom commands with the Aiogram library.
 
 **Part 2: Experiment with Keyboard Types and Callbacks**
-[Details](link to part 2 readme)
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_2/README.md)
 - Explore different keyboard types, understand their uses, and learn how to implement them.
 - Complete tasks involving the creation of inline keyboards and reply keyboards.
 - Develop callback functions and integrate them with inline keyboards for effective user communication.
 
 **Part 3: Concept of Finite State Machine and User Registration**
-[Details](link to part 3 readme)
+[Details](link to part 3 readmehttps://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_3/README.md))
 - Gain an understanding of the finite state machine concept and how it is used in Telegram bots.
 - Implement user registration using Finite State Machines.
 
 **Part 4: Connect with Database and Finalize**
-[Details](link to part 4 readme)
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_4/README.md)
 - Save user data on MongoDB.
 - Implement other static data components by connecting them to MongoDB.
 - Finalize the project by improving the user interface, fixing bugs, conducting thorough testing, and hosting the bot on PythonAnywhere.
