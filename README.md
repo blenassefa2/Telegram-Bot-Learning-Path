@@ -17,7 +17,7 @@ In this phase, we'll cover essential topics, and although we won't delve into ad
     ` git clone https://github.com/blenassefa2/Telegram-Bot-Learning-Path.git`
     
 ### 2. After cloning this repository on your machine, make sure to create your branch with the following format then check out to your branch
-'''[First_Name].[Task].[PartNumber]'''
+[First_Name].[Task].[PartNumber]
 
 Example: `git checkout -b Blen.Task.1 `
 
@@ -42,20 +42,20 @@ In summary, Telegram bot development is an engaging pursuit for software enthusi
 The details for each task parts are clearly defined in the readme of respective tasks but the overall structure looks as follows:
 
 **Part 1: Introduction to Telegram Bot**
-[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_1/README.md)
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_1/Readme.md)
 - Understand the recommended folder structure and the concept of long polling.
 - Create your first Telegram bot using BotFather.
 - Host the bot on PythonAnywhere.
 - Develop custom commands with the Aiogram library.
 
 **Part 2: Experiment with Keyboard Types and Callbacks**
-[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_2/README.md)
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_2/Readme.md)
 - Explore different keyboard types, understand their uses, and learn how to implement them.
 - Complete tasks involving the creation of inline keyboards and reply keyboards.
 - Develop callback functions and integrate them with inline keyboards for effective user communication.
 
 **Part 3: Concept of Finite State Machine and User Registration**
-[Details](link to part 3 readmehttps://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_3/README.md))
+[Details](https://github.com/blenassefa2/Telegram-Bot-Learning-Path/edit/main/Part_3/Readme.md))
 - Gain an understanding of the finite state machine concept and how it is used in Telegram bots.
 - Implement user registration using Finite State Machines.
 
