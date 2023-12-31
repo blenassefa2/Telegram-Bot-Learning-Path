@@ -1,4 +1,4 @@
-# Group 4 A2SV Remote Second Year Telegram Bot Development Phase
+# Telegram Bot Development Phase
 
 ## Introduction
 
